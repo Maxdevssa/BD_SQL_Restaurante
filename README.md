@@ -2,7 +2,7 @@
 
 
 * Descrição
-**Este projeto implementa um sistema básico de banco de dados para gerenciar as operações de um restaurante. Ele abrange a gestão de funcionários, clientes, produtos e pedidos, além de associar informações adicionais dos produtos.
+- Este projeto implementa um sistema básico de banco de dados para gerenciar as operações de um restaurante. Ele abrange a gestão de funcionários, clientes, produtos e pedidos, além de associar informações adicionais dos produtos.
 
 * Estrutura do Banco de Dados
 Tabelas Criadas
