@@ -1,9 +1,9 @@
-** Projeto: Sistema de Gestão de Restaurante
+Sistema de Gestão de Restaurante (Fase I)
 
- Descrição
+ Descrição:
 - Este projeto implementa um sistema básico de banco de dados para gerenciar as operações de um restaurante. Ele abrange a gestão de funcionários, clientes, produtos e pedidos, além de associar informações adicionais dos produtos.
 
-Estrutura do Banco de Dados
+Estrutura do Banco de Dados:
   Tabelas Criadas
 - funcionarios: Armazena dados dos funcionários, incluindo informações pessoais e detalhes profissionais.
 
@@ -27,7 +27,7 @@ info_produtos: Adiciona informações adicionais aos produtos, vinculando dados 
 - id_produto: Chave estrangeira relacionada à tabela produtos.
 ingredientes, fornecedor.
 
-Operações Principais
+Operações Principais:
 
 - Gestão de Funcionários: Inserção, atualização e consulta dos dados dos funcionários.
 - Gestão de Clientes: Registro e consulta dos clientes e suas informações de contato.
@@ -35,14 +35,14 @@ Operações Principais
 - Gestão de Pedidos: Gerenciamento de pedidos e vinculação ao cliente correspondente.
 - Informações dos Produtos: Associar ingredientes e fornecedores aos produtos, mantendo dados precisos.
 
-Requisitos
+Requisitos:
 - MySQL ou similar para execução do banco de dados.
 
-Como Utilizar
+Como Utilizar:
 - Criar o banco de dados e as tabelas com os scripts SQL fornecidos.
 - Popule as tabelas com dados relevantes.
 - Utilize operações de SQL para manipular e consultar os dados conforme necessário.
 
-Licença
+Licença:
 - Este projeto está sob a licença de Bruno Silveira Guerreiro.
 
