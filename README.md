@@ -1,14 +1,13 @@
 ** Projeto: Sistema de Gestão de Restaurante
 
-
-* Descrição
+ Descrição
 - Este projeto implementa um sistema básico de banco de dados para gerenciar as operações de um restaurante. Ele abrange a gestão de funcionários, clientes, produtos e pedidos, além de associar informações adicionais dos produtos.
 
-* Estrutura do Banco de Dados
-Tabelas Criadas
-funcionarios: Armazena dados dos funcionários, incluindo informações pessoais e detalhes profissionais.
+Estrutura do Banco de Dados
+- Tabelas Criadas
+- funcionarios: Armazena dados dos funcionários, incluindo informações pessoais e detalhes profissionais.
 
-id_funcionario: Identificador único.
+- id_funcionario: Identificador único.
 nome, cpf, data_nascimento, endereco, telefone, email, cargo, salario, data_admissao.
 clientes: Registra dados dos clientes, permitindo o acompanhamento de interações e histórico.
 
